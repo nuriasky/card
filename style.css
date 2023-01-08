@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: #f1f1f1;
+    font-family: 'montserrat';
 }
 
 section{
@@ -20,7 +21,6 @@ section{
     flex-direction: column;
     background-color: #ffffff;
     border-radius: 1.5rem;
-    font-family: 'montserrat';
     box-shadow:
     10px 25px 20px rgba(0, 0, 0, 0.13);
 }
@@ -39,7 +39,7 @@ i {
 }
 
 h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
     color: #151a41;
     font-size: 22px;
     background-color: #ffffff;
@@ -52,7 +52,7 @@ h2 {
 }
 
 .number {
-    font-family: 'Montserrat medium';
+    font-weight: 600;
     font-size: 17px;
     color:#363636;
     background:#ffffff;
@@ -85,7 +85,7 @@ h2 {
 
 .text {
     font-size: 12px;
-    font-family: 'montserrat semibold';
+    font-weight: 500;
     color: #2e2e2e;
     display:flex;
     width: 19rem;
@@ -121,7 +121,7 @@ h2 {
 form label {
     background-color: rgba(153, 205, 50, 0);
     font-size: 14px;
-    font-family: 'montserrat semibold';
+    font-weight: 600;
 }
 
 .button {
@@ -138,8 +138,7 @@ form label {
     color: #444229;
     border: none;
     background-color: #F2CA63;
-    font-family:'Montserrat';
-    font-weight: bold;
+    font-weight: 700;
     text-transform: uppercase;
     font-size: 15px;
     transition: all 0.08s ease-out;
