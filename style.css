@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat';
     background-color: #f1f1f1;
 }
 
@@ -53,7 +52,7 @@ h2 {
 }
 
 .number {
-    font-family: 'montserrat medium';
+    font-family: 'Montserrat medium';
     font-size: 17px;
     color:#363636;
     background:#ffffff;
