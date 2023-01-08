@@ -75,7 +75,7 @@ h2 {
     height: 52px;
     background-color: #e55381;
     transition: all 0.3s cubic-bezier(0.62, 0.08, 0.04, 0.84);
-    font-family: 'montserrat semibold';
+    font-weight: 700;
     font-weight: bolder;
     font-size: 19px;
     color: white;
